@@ -132,7 +132,9 @@ public class InGameManager : Singleton<InGameManager>
                     {
                         HighscoreTable.timeEnd = true;
                         SetupManager.SetUpView(ViewType.LeaderBoardView);
+                        HonorPointManage.ins.AddHonorPoint(1);
                         ViewsManager.Instance.LoadSceneByName("SetUp");
+
                     }
                     else
                     {
@@ -140,6 +142,7 @@ public class InGameManager : Singleton<InGameManager>
                         FreeKickView freeKickView  = ViewsManager.Instance.dicViews[ViewType.FreeKickView] as FreeKickView ;
                         freeKickView.currentTime = timeNow;
                         freeKickView.timeToPlay = timeToPlay;
+                        HonorPointManage.ins.AddHonorPoint(1);
                         ViewsManager.Instance.LoadSceneByName("FreeKick");
                     }
                     #endregion

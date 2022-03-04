@@ -115,6 +115,7 @@ public class FreeKickManager : MonoBehaviour
         {
             yield return new WaitForSeconds(2);
             HighscoreTable.timeEnd = true;
+            HonorPointManage.ins.AddHonorPoint(1);
             SetupManager.SetUpView(ViewType.LeaderBoardView);
             ViewsManager.Instance.LoadSceneByName("SetUp");
         }

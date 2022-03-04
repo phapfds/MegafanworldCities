@@ -63,6 +63,7 @@ public class FreeKickView : Views
             if (currentTime >= timeToPlay)
             {
                 HighscoreTable.timeEnd = true;
+                HonorPointManage.ins.AddHonorPoint(1);
                 SetupManager.SetUpView(ViewType.LeaderBoardView);
                 ViewsManager.Instance.LoadSceneByName("SetUp");
             }

@@ -273,7 +273,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1081274537}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &143925197
 MonoBehaviour:
@@ -288,299 +288,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreUnlock: 15000
---- !u!1001 &220150081
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1081274537}
-    m_Modifications:
-    - target: {fileID: 132536, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_Name
-      value: IngameDebugConsole
-      objectReference: {fileID: 0}
-    - target: {fileID: 132536, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22426080, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22426080, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22426080, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 589.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 22428984, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 725.8333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22455554, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 998.49994
-      objectReference: {fileID: 0}
-    - target: {fileID: 22468896, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 204.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 22488670, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 862.1666
-      objectReference: {fileID: 0}
-    - target: {fileID: 22495692, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 248.66666
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 397
-      objectReference: {fileID: 0}
-    - target: {fileID: 224619367409363176, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 136.33333
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 36
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 68.166664
-      objectReference: {fileID: 0}
-    - target: {fileID: 224856348943071238, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 67117722a812a2e46ab8cb8eafbf5f5e, type: 3}
 --- !u!1 &1081274535
 GameObject:
   m_ObjectHideFlags: 0
@@ -627,9 +334,8 @@ Transform:
   - {fileID: 3410509075022841690}
   - {fileID: 1571930821}
   - {fileID: 103589740}
-  - {fileID: 1131428986}
   - {fileID: 143925196}
-  - {fileID: 1416771232}
+  - {fileID: 1605565074}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -671,245 +377,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chatObject: {fileID: 2099287073645929070}
---- !u!1 &1131428985
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1131428986}
-  - component: {fileID: 1131428988}
-  - component: {fileID: 1131428989}
-  m_Layer: 0
-  m_Name: FirebaseDatabase
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1131428986
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131428985}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1081274537}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1131428988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131428985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e34f858cf8cb8564689dbe67c7510164, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemInit:
-  - id: 0
-    itemType: 5
-    nameItem: Shirt
-    description: This Eintracht Frankfurt Home Shirt for the 20/21 season has been
-      developed with Nike Breathe fabric and Dri-Fit technology which delivers fast
-      drying moisture management and cooling breathability. The jersey features the
-      teams iconic crest so you can showcase your support for The Eagles with pride
-      and the Nike Swoosh branding completes the look.
-    price: 10
-    number: 1
-  - id: 1
-    itemType: 0
-    nameItem: Hat
-    description: "Our casually comfortable baseball caps have all your bases covered.
-      Bad hair day? Early morning coffee run? No problem. You\u2019ll hit a fashion
-      home run with our winning designs. "
-    price: 20
-    number: 1
-  - id: 2
-    itemType: 2
-    nameItem: Lamp
-    description: 'Modern and simplistic, the Frankfurt lamp was design with a solid
-      brass hexagon detailing at the top and bottom, creating a striking contrast.  '
-    price: 30
-    number: 1
-  - id: 3
-    itemType: 3
-    nameItem: Bembel
-    description: 'Apple wine has been Frankfurt''s most popular beverage for over
-      250 years. Locals traditionally enjoy it at the city''s rustic apple wine pubs,
-      where it is served in an earthenware jug, commonly referred to as the "bembel",
-      and drunk from a special ribbed glass, known as the "gerippte". Over the years,
-      the grey jug with its blue design has become the premier symbol of Frankfurt''s
-      time-honoured apple wine culture.  '
-    price: 40
-    number: 1
-  - id: 4
-    itemType: 1
-    nameItem: Cup
-    description: "With the cup \"Frankfurt\", your caf\xE9 gets a special recognition
-      value. Your guests will definitely remember your vividly served hot drink. "
-    price: 25
-    number: 1
-  - id: 5
-    itemType: 4
-    nameItem: WaterBottle
-    description: ' Water bottles are a useful accessory for staying hydrated. They
-      can be a life-saver in situations where water seems scarce or when a friend
-      needs a refill. Water bottles can also make it easier to stay physically active
-      and have more energy throughout the day.'
-    price: 15
-    number: 1
-  - id: 6
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 7
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 8
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 9
-    itemType: 7
-    nameItem: AutographCard
-    description: "Autographed Card \u2013 A card that has been signed by the player.
-      Also referred to as a \u201Ccertified autograph.\u201D Hard-Signed Autographed
-      Card \u2013 An autographed card that features a signature inscribed directly
-      onto the card's surface. "
-    price: 50
-    number: 1
-  - id: 10
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 11
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 12
-    itemType: 8
-    nameItem: Shoes
-    description: Football, as a game, requires an awful lot of running on a specialist
-      field. In order to not damage the field or your feet it's important to have
-      the right shoes.
-    price: 125
-    number: 1
-  - id: 13
-    itemType: 9
-    nameItem: Ball
-    description: Soccer balls are a great workout tool whether you play alone or
-      with others. Shop a wide selection of soccer balls here. Find great prices,
-      discounts, and customer reviews on the right soccer ball.
-    price: 50
-    number: 1
-  - id: 14
-    itemType: 10
-    nameItem: Table
-    description: 'Spring has arrived! Let''s give our homes a refresh to welcome
-      this new season. Shop our online sale and discover hundreds of items from chic
-      dining furniture to statement sofas to brighten any space. '
-    price: 500
-    number: 1
-  - id: 15
-    itemType: 11
-    nameItem: Couch
-    description: Unwind on a new living room couch! Shop our sofa and sectional collection
-      by material, colour or function. Discover great prices and fast delivery.
-    price: 750
-    number: 1
-  - id: 16
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 17
-    itemType: 12
-    nameItem: Sofa
-    description: Each designer sofa is available in thousands of luxury fabrics,
-      velvets & leather and all details can be customised. They come in any dimension
-      (from 2 and 3 seater to large sofas) and in matching luxury armchairs & stools
-      for those needing a set.
-    price: 200
-    number: 1
-  - id: 18
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 19
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
-  - id: 20
-    itemType: 6
-    nameItem: Wall Painting
-    description: A mural is any piece of artwork painted or applied directly on a
-      wall, ceiling or other permanent surfaces. A distinguishing characteristic
-      of mural painting is that the architectural elements of the given space are
-      harmoniously incorporated into the picture.
-    price: 50
-    number: 1
---- !u!114 &1131428989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131428985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50d8a97fccd47114e94977e7bd32995c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1299378966
 GameObject:
   m_ObjectHideFlags: 0
@@ -940,12 +407,6 @@ Transform:
   m_Father: {fileID: 2099287073645929071}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!224 &1416771232 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 22457152, guid: 67117722a812a2e46ab8cb8eafbf5f5e,
-    type: 3}
-  m_PrefabInstance: {fileID: 220150081}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1438906057
 GameObject:
   m_ObjectHideFlags: 0
@@ -1119,6 +580,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shirtTex: []
+--- !u!1 &1605565073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1605565074}
+  - component: {fileID: 1605565075}
+  m_Layer: 0
+  m_Name: HonorPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1605565074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605565073}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 421, y: 338, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1081274537}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1605565075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605565073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cae2d551dd4713498d285d842c99493, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isTest: 0
 --- !u!1 &1994913450
 GameObject:
   m_ObjectHideFlags: 0

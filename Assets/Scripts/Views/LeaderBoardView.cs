@@ -27,7 +27,9 @@ public class LeaderBoardView : Views
         if (previousView == ViewType.InGameView)
         {
             if (InGameManager.Instance.IngameState == IngameState.Endgame)
+            {
                 textBtn.text = "Restart";
+            }
             else
                 textBtn.text = "Resume";
         }
